@@ -60,10 +60,7 @@
 
 # 📊 GitHub Analytics Dashboard
 
-### 🔥 Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikdammeryem99-pixel&theme=radical&hide_border=true&show_icons=true)
 
----
 
 ### ⏳ Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikdammeryem99-pixel&theme=react-dark&hide_border=true)
