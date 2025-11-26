@@ -24,6 +24,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-mikdam-b1a70a2bb/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikdammeryem99@gmail.com) 
 
+## 📊 GitHub Analytics Dashboard
+
+### 🔥 Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikdammeryem99-pixel&theme=radical&hide_border=true&show_icons=true)
+
+---
+
+### ⏳ Contribution Trends (Courbe de chaleur)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikdammeryem99-pixel&theme=react-dark&hide_border=true)
+
+---
+
+### 📈 Streak Analytics
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=mikdammeryem99-pixel&theme=radical&hide_border=true)
+
+---
+
+### 🧠 Top Languages (Analyse)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikdammeryem99-pixel&layout=compact&theme=radical&hide_border=true)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikdammeryem99-pixel&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mikdammeryem99-pixel&theme=dark&hide_border=true)<br/>
