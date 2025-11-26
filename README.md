@@ -60,22 +60,10 @@
 
 # 📊 GitHub Analytics Dashboard
 
-
-
-### ⏳ Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikdammeryem99-pixel&theme=react-dark&hide_border=true)
 
 ---
 
-### 📈 Streak Analytics
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=mikdammeryem99-pixel&theme=radical&hide_border=true)
-
----
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikdammeryem99-pixel&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-mikdam-b1a70a2bb/)
@@ -83,9 +71,6 @@
 
 ---
 
-## 👀 Visitors Count:
-![](https://komarev.com/ghpvc/?username=mikdammeryem99-pixel&color=blue)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
