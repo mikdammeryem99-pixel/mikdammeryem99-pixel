@@ -6,8 +6,7 @@
 
 # 💫 About Me:
 🎓 Diplômée en Développement Informatique.<br>
-🛠️ Passionnée par le développement Web (Laravel, React).<br>
-📱 J'ai étudié Flutter à l'institut pour développer des applications mobiles.<br>
+🛠️ Passionnée par le développement Web (Laravel, React) et mobile (Flutter).<br>
 📚 Toujours motivée pour apprendre et explorer de nouvelles technologies.<br>
 🌍 Objectif : participer à des projets innovants, créatifs et collaboratifs.
 
