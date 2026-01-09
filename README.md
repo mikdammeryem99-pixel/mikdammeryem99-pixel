@@ -57,11 +57,7 @@
 
 ---
 
-# 📊 GitHub Analytics Dashboard
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikdammeryem99-pixel&theme=react-dark&hide_border=true)
-
----
 
 
 ## 🌐 Socials:
